@@ -1,4 +1,4 @@
-export default function Hero({
+export default function HeroIcon({
   width = 1536,
   height = 869,
   className = "h-fit",
